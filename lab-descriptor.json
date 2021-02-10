@@ -3,27 +3,67 @@
     "name": "Electrical Engineering",
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
-  "lab": "",
+  "lab": "Process Loop Component for Transmitter and Tank Applications",
   "phase": 3,
   "collegeName": "coep",
-  "baseUrl": ".vlabs.ac.in",
-  "introduction": "Welcome to the ",
+  "baseUrl": "plctt-coep.vlabs.ac.in",
+  "introduction": "Welcome to the Process Loop Component Lab for the Transmitter and Tank Applications developed at CoEP. The main purpose of this laboratory is to make the students aware of the Transmitter and Tank Applications used in the industry. These components are the backbone of the industry. The working and configuration of these components require high-level skills and due to the cost of these instruments, no college can afford to have these for experimentation. Moreover, the calibration and maintenance required to continuously keep these instruments up and running are also tedious. This is an attempt to virtualize these instruments for thorough understanding.",
   "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Configure a Transmitter for the level control system",
+      "short-name": "transmitter-level-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-level-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Configure a Transmitter for the pressure control system",
+      "short-name": "transmitter-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-pressure-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Configure a Transmitter for the flow control system",
+      "short-name": "transmitter-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-flow-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Configure a Transmitter for the temperature control system",
+      "short-name": "transmitter-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-temperature-control-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Estimate the time to fill the tank for the level control system",
+      "short-name": "time-to-fill-tank",
+      "repo": "https://github.com/virtual-labs/exp-time-to-fill-tank-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Estimate the time to empty the tank for the level control system(Gravity flow)",
+      "short-name": "time-to-empty-tank",
+      "repo": "https://github.com/virtual-labs/exp-time-to-empty-tank-coep",
       "tag": "v1.0.0",
       "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in "],
-    "PG": ["MS/Ph. D. Beginners in "]
+    "UG": ["B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"],
+    "PG": ["MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."]
   },
-  "objective": "",
+  "objective": "1.Configure the transmitter and tank component understudy 2.Analyse the effects of configurable parameters on the performance of the transmitter under test 3. Select the appropriate component as regards span, linearity, accuracy, and damping for the application. 4.Identify the faults in the component and rectify the same.",
   "courseAlignment": {
-    "description": "The lab contents are chosen such that it covers the syllabi of the ^^ course of various universities to considerable extent.",
-    "universities": ["^^"]
+    "description": "The lab contents are chosen such that it covers the syllabi of the Process Loop Component for Transmitter and Tank Applications course of various universities to considerable extent.",
+    "universities": [
+      "Pune University",
+      "Indian Institute of Technology Bombay",
+      "Indian Institute of Technology Delhi",
+      "BMS College of Engineering, Bangalore",
+      "Institute having Instrumentation and control department"]
   },
 }
