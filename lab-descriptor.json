@@ -1,0 +1,29 @@
+{
+  "broadArea": {
+    "name": "Electrical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+  },
+  "lab": "",
+  "phase": 3,
+  "collegeName": "coep",
+  "baseUrl": ".vlabs.ac.in",
+  "introduction": "Welcome to the ",
+  "experiments": [
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in "],
+    "PG": ["MS/Ph. D. Beginners in "]
+  },
+  "objective": "",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the ^^ course of various universities to considerable extent.",
+    "universities": ["^^"]
+  },
+}
