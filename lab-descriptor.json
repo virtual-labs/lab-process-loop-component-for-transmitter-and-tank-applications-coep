@@ -53,8 +53,12 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"],
-    "PG": ["MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."]
+    "UG": [
+      "B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"
+    ],
+    "PG": [
+      "MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."
+    ]
   },
   "objective": "1.Configure the transmitter and tank component understudy 2.Analyse the effects of configurable parameters on the performance of the transmitter under test 3. Select the appropriate component as regards span, linearity, accuracy, and damping for the application. 4.Identify the faults in the component and rectify the same.",
   "courseAlignment": {
@@ -64,6 +68,8 @@
       "Indian Institute of Technology Bombay",
       "Indian Institute of Technology Delhi",
       "BMS College of Engineering, Bangalore",
-      "Institute having Instrumentation and control department"]
+      "Institute having Instrumentation and control department"
+    ]
   },
+  "version": "v1.0.0"
 }
