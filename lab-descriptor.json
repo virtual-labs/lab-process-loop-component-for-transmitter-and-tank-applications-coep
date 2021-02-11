@@ -13,35 +13,35 @@
       "name": "Configure a Transmitter for the level control system",
       "short-name": "transmitter-level-control",
       "repo": "https://github.com/virtual-labs/exp-transmitter-level-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the pressure control system",
       "short-name": "transmitter-pressure-control",
       "repo": "https://github.com/virtual-labs/exp-transmitter-pressure-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the flow control system",
       "short-name": "transmitter-flow-control",
       "repo": "https://github.com/virtual-labs/exp-transmitter-flow-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the temperature control system",
       "short-name": "transmitter-temperature-control",
       "repo": "https://github.com/virtual-labs/exp-transmitter-temperature-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimate the time to fill the tank for the level control system",
       "short-name": "time-to-fill-tank",
       "repo": "https://github.com/virtual-labs/exp-time-to-fill-tank-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -71,5 +71,5 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v2.0.0"
+  "version": "v2.0.1"
 }
