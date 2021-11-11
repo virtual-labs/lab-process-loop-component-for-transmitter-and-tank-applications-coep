@@ -71,7 +71,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v2.2.0",
+  "version": "v2.3.0",
   "exp_name": "Estimate the time to empty the tank for the level control system(Gravity flow)",
   "exp_short_name": "time-to-empty-tank",
   "production": true,
