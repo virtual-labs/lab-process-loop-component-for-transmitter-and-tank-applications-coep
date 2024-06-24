@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Process Loop Component for Transmitter and Tank Applications",
+  "lab_display_name": "Process Loop Component for Transmitter and Tank Applications",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plctt-coep.vlabs.ac.in",
