@@ -7,7 +7,7 @@
   "lab": "Process Loop Component for Transmitter and Tank Applications",
   "lab_display_name": "Process Loop Component for Transmitter and Tank Applications",
   "phase": 3,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "plctt-coep.vlabs.ac.in",
   "introduction": "Welcome to the Process Loop Component Lab for the Transmitter and Tank Applications developed at CoEP. The main purpose of this laboratory is to make the students aware of the Transmitter and Tank Applications used in the industry. These components are the backbone of the industry. The working and configuration of these components require high-level skills and due to the cost of these instruments, no college can afford to have these for experimentation. Moreover, the calibration and maintenance required to continuously keep these instruments up and running are also tedious. This is an attempt to virtualize these instruments for thorough understanding.",
   "experiments": [
@@ -124,6 +124,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
